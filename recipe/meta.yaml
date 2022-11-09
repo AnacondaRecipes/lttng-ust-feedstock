@@ -39,8 +39,12 @@ about:
   license: LGPL-2.1-only
   license_family: LGPL
   license_file: LICENSE
+  license_url: https://github.com/lttng/lttng-ust/blob/master/LICENSE
+  description: |
+       The LTTng User Space Tracing (LTTng-UST) library allows any C/C++ application to be instrumented for and traced by LTTng. LTTng-UST also includes a logging back-end for Java applications and various dynamically loadable user space tracing helpers for any application.
   summary: The LTTng User Space Tracing (LTTng-UST) library allows any C/C++ application to be instrumented for and traced by LTTng.
   doc_url: https://lttng.org/docs/v{{ version }}/
+  doc_source_url: https://github.com/lttng/lttng-ust/tree/master/doc
   dev_url: https://github.com/lttng/lttng-ust
 
 extra:
